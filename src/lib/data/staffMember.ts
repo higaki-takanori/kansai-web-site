@@ -32,7 +32,7 @@ export const coreMemberInfos: Member[] = [
   },
   {
     name: "higaki",
-    image: "higaki.png",
+    image: "higaki.jpeg",
     href: "https://x.com/higaki_program",
   },
 ] satisfies Member[];
